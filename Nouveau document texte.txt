@@ -5,7 +5,6 @@
     <title>Mon exercice</title>
 </head>
 <body>
-    <header>mon titre</header>
     <p style="color: green;">Mon premier exo solo</p>
 </body>
 </html>
